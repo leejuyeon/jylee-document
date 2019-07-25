@@ -3,3 +3,6 @@ command : https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko
 
 2019-07-24
 infra K8S : https://www.slideshare.net/babokim/open-infradays-2019msak8s
+
+2019-07-25
+MSA 관련 참고 블로그 : http://woowabros.github.io/study/2019/07/01/multi-module.html
